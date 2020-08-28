@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922410530616",
+    "firebase_url": "https://bookery-33df2.firebaseio.com",
+    "project_id": "bookery-33df2",
+    "storage_bucket": "bookery-33df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922410530616:android:0c57e3aca45ab04e7d33cd",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922410530616-fn7vaj3tsjdjfalilijcqqh5vn15rp64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9VF8y3Qu0xRDdJKBdz-Av2Y5wKN_POg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922410530616-fn7vaj3tsjdjfalilijcqqh5vn15rp64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
